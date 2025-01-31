@@ -2,4 +2,4 @@
 
 Project: Recipes from The Odin Project.
 
-A simple website using only HTML.
+A simple website using HTML and CSS.
