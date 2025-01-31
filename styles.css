@@ -21,3 +21,13 @@ h2 {
 a {
     color: black;
 }
+
+.container {
+    display: container;
+    width: 50rem;
+    margin: 0 auto;
+}
+
+li {
+    margin-bottom: 8px;
+}
