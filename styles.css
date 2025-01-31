@@ -4,3 +4,20 @@
 body {
     background-color: lightseagreen;
 }
+
+h1 {
+    font-size: 3rem;
+}
+
+h2 {
+    font-size: 2rem;
+}
+
+.description {
+    font-weight: 500;
+    font-style: italic;
+}
+
+a {
+    color: black;
+}
